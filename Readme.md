@@ -1,3 +1,5 @@
+Simple app to predict the closing price of stock for AAPL based on the OHL indicators.Model is built on simple linear regression, data is from yahoo finance. The value of R square is 0.99 . Website also includes a cool slider to view the historical prices . 
+
 Visit the live site : https://asr2k0.shinyapps.io/shiny/
 
 
